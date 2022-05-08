@@ -1,4 +1,4 @@
-# learning-git
+# Git and GitHub Course
 
 ## Leanring how to use git; I took this course from
 https://amigoscode.com/courses/1317178/lectures/30664230
